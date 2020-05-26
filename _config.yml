@@ -1,11 +1,11 @@
 # Site settings
 author: Sachin Naik
-title: 
+title: My Data science journey
 header-img: img/home-bg.png
 email: naiks@fdu.edu
 copyright_name: Sachin Naik
 description: > # this means to ignore newlines until "baseurl:"
-  
+  First Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  snaik21352
